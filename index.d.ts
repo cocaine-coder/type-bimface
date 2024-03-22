@@ -1,3 +1,8 @@
+/**
+ * https://bimface.com/docs/model-viewer/v1/api-reference/BimfaceSDKLoader.html
+ */
+
+
 type TViewer = Glodon.Bimface.Viewer.Viewer3D | Glodon.Bimface.Viewer.ViewerGIS;
 
 type TPosition = { x: number, y: number, z: number };
