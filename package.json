@@ -1,0 +1,10 @@
+{
+  "name": "type-bimface",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "main": "",
+  "repository": "https://github.com/cocaine-coder/type-bimface.git",
+  "author": "cocaine_coder <tracywang1997@outlook.com>",
+  "license": "MIT",
+  "typeScriptVersion": "4.6"
+}
